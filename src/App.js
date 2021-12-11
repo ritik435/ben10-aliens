@@ -26,7 +26,7 @@ class App extends react.Component {
       monster.name.toLowerCase().includes(searchField.toLowerCase()))
     return (
       <div className="App">
-        <h1>Ben 10 Aliens</h1>
+        <h1 className="heading">Ben 10 Aliens</h1>
         <SearchBox
           placeholder='Search Aliens'
           onChange={this.handleChange}
