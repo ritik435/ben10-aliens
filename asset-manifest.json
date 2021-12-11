@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ben10-aliens/static/css/main.c322e5aa.chunk.css",
+    "main.js": "/ben10-aliens/static/js/main.a281fdfb.chunk.js",
+    "main.js.map": "/ben10-aliens/static/js/main.a281fdfb.chunk.js.map",
+    "runtime-main.js": "/ben10-aliens/static/js/runtime-main.677b7a33.js",
+    "runtime-main.js.map": "/ben10-aliens/static/js/runtime-main.677b7a33.js.map",
+    "static/js/2.b80110a5.chunk.js": "/ben10-aliens/static/js/2.b80110a5.chunk.js",
+    "static/js/2.b80110a5.chunk.js.map": "/ben10-aliens/static/js/2.b80110a5.chunk.js.map",
+    "static/js/3.4615bb44.chunk.js": "/ben10-aliens/static/js/3.4615bb44.chunk.js",
+    "static/js/3.4615bb44.chunk.js.map": "/ben10-aliens/static/js/3.4615bb44.chunk.js.map",
+    "index.html": "/ben10-aliens/index.html",
+    "static/css/main.c322e5aa.chunk.css.map": "/ben10-aliens/static/css/main.c322e5aa.chunk.css.map",
+    "static/js/2.b80110a5.chunk.js.LICENSE.txt": "/ben10-aliens/static/js/2.b80110a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677b7a33.js",
+    "static/js/2.b80110a5.chunk.js",
+    "static/css/main.c322e5aa.chunk.css",
+    "static/js/main.a281fdfb.chunk.js"
+  ]
+}
